@@ -1,0 +1,28 @@
+name: Wim Zwaag
+favicon: null
+layout_spectrum: 0.35139734554104507
+typography_spectrum: 0.17010868806391954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4262979512568563
+  lightness: 0.5493948452640325
+  saturation: 0.17166991997510195
+  rhythmicContrast: 0.9215258213225752
+purpose: []
